@@ -46,6 +46,5 @@ public class CustomAdapter extends ArrayAdapter {
         tvVersion.setText(currentVersion.getVersion());
 
         return rowView;
-
     }
 }
